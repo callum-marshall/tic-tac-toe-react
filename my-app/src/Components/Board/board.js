@@ -1,5 +1,5 @@
 import React from 'react'
-import Square  from '../Square/square'
+import Square from '../Square/square'
 
 class Board extends React.Component {
   renderSquare (i) {
@@ -34,4 +34,4 @@ class Board extends React.Component {
   }
 }
 
-export default Board;
+export default Board
